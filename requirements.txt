@@ -1,9 +1,10 @@
 streamlit
 transformers==4.44.2
-tokenizers==0.20.0
 torch>=2.5.0
 sentence-transformers
 faiss-cpu
 numpy
 requests
 regex
+beautifulsoup4
+lxml
